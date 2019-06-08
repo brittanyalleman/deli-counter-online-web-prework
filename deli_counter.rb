@@ -5,3 +5,4 @@ def line(array)
    array.each_with_index do |name, i|
      "The line is currently: (string + i + name exit)"
  end
+end
