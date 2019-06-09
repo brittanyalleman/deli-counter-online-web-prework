@@ -19,10 +19,5 @@ end
 def now_serving(Array)
 if array.count == 0
  puts "There is nobody waiting to be served!"
-else 
+else
   puts "Currently serving, #{name}
-
-
-
-
-  
