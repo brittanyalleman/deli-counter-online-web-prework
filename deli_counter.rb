@@ -11,5 +11,5 @@ def line(array)
 end
 
 def take_a_number(katz_deli, i )
-   puts ("Welcome, #{}. You are number #{i=1} in line.")
+   puts ("Welcome, #{katz_deli}. You are number #{i=1} in line.")
 end
