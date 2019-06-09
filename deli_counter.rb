@@ -10,7 +10,7 @@ def line(array)
  end
 end
 
-def take_a_number(array)
+def take_a_number
  if array.count ==0
    puts "The line is currently empty."
  else
