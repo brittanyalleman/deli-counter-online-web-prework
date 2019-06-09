@@ -16,7 +16,7 @@ def take_a_number(array, name )
    puts ("Welcome, #{name}. You are number #{i} in line.")
 end
 
-def now_serving(Array)
+def now_serving(array)
 if array.count == 0
  puts "There is nobody waiting to be served!"
 else
