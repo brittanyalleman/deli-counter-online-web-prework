@@ -15,3 +15,14 @@ def take_a_number(array, name )
    i = array.count
    puts ("Welcome, #{name}. You are number #{i} in line.")
 end
+
+def now_serving(Array)
+if array.count == 0
+ puts "There is nobody waiting to be served!"
+else 
+  puts "Currently serving, #{name}
+
+
+
+
+  
