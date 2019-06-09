@@ -11,7 +11,7 @@ def line(array)
 end
 
 def take_a_number(katz_deli, name)
- if array.count == 0
+ if Array.count == 0
    puts "The line is currently empty."
  else
    take_a_number="Welcome, #{name}. You are number #{i=1} in line. "
