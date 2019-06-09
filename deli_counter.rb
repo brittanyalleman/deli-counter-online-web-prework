@@ -20,4 +20,4 @@ def now_serving(Array)
 if array.count == 0
  puts "There is nobody waiting to be served!"
 else
-  puts "Currently serving, #{name}
+  puts ("Currently serving, #{name}")
