@@ -12,7 +12,7 @@ end
 
 def take_a_number(katz_deli, name)
  if katz_deli.count == 0
-   puts ("Welcome, #{name}. You are number #{i=1} in line. ")
+   puts ("Welcome, #{name}. You are number #{i=1} in line.")
  #else
    #take_a_number= ("Welcome, #{name}. You are number #{i=1} in line. ")
  end
