@@ -11,9 +11,10 @@ def line(array)
 end
 
 def take_a_number(array, name )
-  i = array.count+1
+   array.push(name) 
+   i = array.count
    puts ("Welcome, #{name}. You are number #{i} in line.")
-    array.push(name)
+    
 
 
 
