@@ -12,7 +12,4 @@ end
 
 def take_a_number(katz_deli, i )
    puts ("Welcome, #{}. You are number #{i=1} in line.")
-
- end
- puts take_a_number
 end
