@@ -10,7 +10,7 @@ def line(array)
  end
 end
 
-def take_a_number(katz_deli, ada)
+def take_a_number(katz_deli, name)
  if katz_deli.count == 0
    puts ("Welcome, #{name}. You are number #{i=1} in line.")
  #else
