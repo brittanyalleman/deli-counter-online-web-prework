@@ -10,6 +10,6 @@ def line(array)
  end
 end
 
-def take_a_number(Ada, i )
-   puts ("Welcome, #{Ada}. You are number #{i=1} in line.")
+def take_a_number(name, i )
+   puts ("Welcome, #{name}. You are number #{i=1} in line.")
 end
