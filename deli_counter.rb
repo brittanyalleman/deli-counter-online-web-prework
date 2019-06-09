@@ -17,7 +17,9 @@ def take_a_number(array, name )
 end
 
 def now_serving(array)
-if array.count == 0
+ if array.count == 0
  puts "There is nobody waiting to be served!"
-else
+ else
   puts ("Currently serving, #{name}")
+ end 
+end
